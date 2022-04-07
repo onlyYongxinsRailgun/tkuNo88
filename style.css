@@ -193,8 +193,14 @@ span{
 }
 .container .card .content h3{
     font-family: 'ThePeakFontBeta';
-    margin-bottom: 20px;
+    margin-bottom: 3px;
     font-size: 40px;
+    color: #0f2340;
+}
+.container .card .content h4{
+    font-family: 'ThePeakFontBeta';
+    margin-bottom: 10px;
+    font-size: 20px;
     color: #0f2340;
 }
 .container .card .content p{
