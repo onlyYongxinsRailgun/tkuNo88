@@ -68,7 +68,7 @@ html, body {
 .title h1, .title p {
     margin-bottom: 10px;
 }
-
+/* find inspiration : https://codepen.io/hrtzt/pen/JdYaEZ */
 .slider {
 	position: absolute;
     bottom: 20%;

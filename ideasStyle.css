@@ -53,6 +53,7 @@ h1{
     align-items: center;
     justify-content: center;
 }
+/* find inspiration : https://codepen.io/t_afif/pen/eYeqvMe */
 img {
     max-height:300px;
     --color: #72dfeb; /* the border color */
